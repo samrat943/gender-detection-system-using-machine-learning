@@ -1,4 +1,4 @@
-# Gender Detection System using Machine Learning  
+# Gender Detection System using CNN
 
 A complete **deep learning–based gender classification system** capable of detecting faces and predicting gender (Male/Female) in **real-time** using a webcam or on static images.  
 This project uses a **Convolutional Neural Network (CNN)** and **OpenCV/cvlib** for face detection.

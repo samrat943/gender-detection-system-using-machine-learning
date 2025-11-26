@@ -131,6 +131,8 @@ The training script generates a graph:
 
 This plot helps visualize overfitting, stability, and overall model quality.
 
+![Training Results Screenshot](https://i.imgur.com/TMLR4Zb.png)
+
 ---
 
 ## 🎥 Real-Time Detection
